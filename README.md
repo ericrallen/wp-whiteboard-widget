@@ -1,4 +1,6 @@
 wp-whiteboard-widget
-====================
+===============
 
-Adds a custom dashboard widget for users to communicate internally on a Wordpress site.
+This plug-in is in its alpha phase; it may or may not work and has not yet been tested.
+
+It is a work in progress.
